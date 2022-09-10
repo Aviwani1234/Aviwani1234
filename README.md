@@ -24,6 +24,10 @@
 ## Connect with me:
 <p align="left">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Aviwani1234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avinash-wani-40ba35219/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/The_Avi_Wani?t=DrpfnZwY2trHXzYkO2OFXQ&s=09)  
+<a href = "https://www.linkedin.com/in/avinash-wani-40ba35219"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'/></a>
+<a href = "https://twitter.com/The_Avi_Wani?t=DrpfnZwY2trHXzYkO2OFXQ&s=09"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'/></a>
+<a href ="https://github.com/https://github.com/Aviwani1234" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>
+
+ 
 
 
