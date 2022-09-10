@@ -1,3 +1,11 @@
-### Hi there 👋 , I'm Avinash Wani
+### Hi there 👋, Avinash Wani
 
-👀 I'm interested in Full-Stack Web Development and Competitive Programming
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning BE IT at DYPCOE Pune 
+- 👯 I’m looking to collaborate on .. 
+- 📫 How to reach me: avinashwani22@gmail.com 
+
+
+ 
+
+
