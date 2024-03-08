@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning BE IT at DYPCOE Pune 
-- 👯 I’m looking to collaborate on some exiting web project 
+- 👯 I’m looking to collaborate on some exciting web project 
 - 📫 How to reach me: avinashwani22@gmail.com 
 
 <br/>
